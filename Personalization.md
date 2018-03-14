@@ -67,14 +67,14 @@ _Good practice is to use one container for one app and names should be given acc
 * flush
 * delItem
 
-## Variant Set Adapter:
+### Variant Set Adapter:
 * getVariantSetKeys
 * containsVariantSet
 * getVariantSet
 * addVariantSet
 * delVariantSet
 
-## Variant Set:
+### Variant Set:
 * setCurrentVariantKey - stores the currently selected variant by user
 * getCurrentVariantKey - 
 * getVariantKeys
@@ -84,7 +84,7 @@ _Good practice is to use one container for one app and names should be given acc
 * addVariant
 * delVariant
 
-## Variant
+### Variant
 * getVariantKey
 * getVariantName
 * getItemKeys
